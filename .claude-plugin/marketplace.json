@@ -1,0 +1,6 @@
+{
+  "name": "claude-config-ko",
+  "description": "Claude Code /config 메뉴 한국어화 모드 config-ko의 설치 출처.",
+  "owner": { "name": "JunH-K" },
+  "plugins": [{ "name": "config-ko", "source": "./" }]
+}

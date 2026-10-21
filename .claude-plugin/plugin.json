@@ -1,0 +1,11 @@
+{
+  "name": "config-ko",
+  "version": "0.1.0",
+  "description": "Claude Code의 /config 설정 메뉴 줄 이름을 '한국어 (English)'로 바꾸고, /config-ko 창에 줄마다 한국어 설명과 지금 값을 보인다.",
+  "author": {
+    "name": "JunH-K"
+  },
+  "homepage": "https://github.com/JunH-K/claude-config-ko",
+  "repository": "https://github.com/JunH-K/claude-config-ko",
+  "license": "MIT"
+}
